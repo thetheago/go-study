@@ -1,0 +1,1 @@
+https://www.notion.so/Golang-Baby-Steps-34e4d3b0f62480e09a95f0b5b063215c?source=copy_link

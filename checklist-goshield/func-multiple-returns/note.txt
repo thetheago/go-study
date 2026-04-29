@@ -1,0 +1,5 @@
+Em go a convenção é sempre retornar o erro como ultimo parametro de retorno, assim todos que chamam conseguem tratar
+se erro é == nil assim como no try catch, porém mais assertivo.
+
+Reparei que todo método de lib começa com letra maiuscula, exemplo: fmt.Println
+

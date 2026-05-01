@@ -1,0 +1,2 @@
+Go rotinas são threads criadas dentro e gerenciadas pelo go, são muito mais leves que threads criadas pelo SO,
+threads dentro do go (goroutine) ficam dentro do mesmo processo go rodando
